@@ -6,19 +6,13 @@ This project presents a traffic sign detection and recognition system based on a
 
 ## Results
 
-[fig1]: https://github.com/DhruvanshuParmar/CSE541-Computer-Vision-2022-The-Weekenders/blob/main/Results/01_12_07_02_0039.jpg
+![fig1](https://github.com/DhruvanshuParmar/CSE541-Computer-Vision-2022-The-Weekenders/blob/main/Results/01_12_07_02_0039.jpg )
 
-![fig2] 
+![fig2](https://github.com/DhruvanshuParmar/CSE541-Computer-Vision-2022-The-Weekenders/blob/main/Results/01_14_07_01_0340.jpg)
 
-[https://github.com/DhruvanshuParmar/CSE541-Computer-Vision-2022-The-Weekenders/blob/main/Results/01_14_07_01_0340.jpg]: 
+![fig3](https://github.com/DhruvanshuParmar/CSE541-Computer-Vision-2022-The-Weekenders/blob/main/Results/Screenshot%202022-04-25%20164847.jpg  )
 
-![fig3]
-
-[https://github.com/DhruvanshuParmar/CSE541-Computer-Vision-2022-The-Weekenders/blob/main/Results/Screenshot%202022-04-25%20164847.jpg]: 
-
-![Fig4]
-
-[https://github.com/DhruvanshuParmar/CSE541-Computer-Vision-2022-The-Weekenders/blob/main/Results/Screenshot%202022-04-25%20221816.png]: 
+![Fig4](https://github.com/DhruvanshuParmar/CSE541-Computer-Vision-2022-The-Weekenders/blob/main/Results/Screenshot%202022-04-25%20221816.png)
 
 ## References
 
